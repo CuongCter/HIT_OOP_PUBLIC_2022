@@ -53,9 +53,8 @@ void Student::Output(){
 	y.Output();
 	cout<<" Class: "<<Class<<endl;
 	cout<<" Score: "<<Score<<endl;
-	
-	
 }
+
 int main(){
 	int n;
 	cout<<"How many student: "; cin>>n;
